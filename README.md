@@ -1,4 +1,4 @@
-# Controlled Text Generation
+# Controlled Text Generation - my fork
 Reproducing Hu, et. al., ICML 2017's "Toward Controlled Generation of Text" in PyTorch.
 This work is for University of Bonn's NLP Lab project on Winter Semester 2017/2018.
 
